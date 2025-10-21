@@ -26,6 +26,11 @@ cd CSCI323Rmod
 pip install -r requirements.txt
 ```
 
+3. Verify your setup (optional but recommended):
+```bash
+python check_setup.py
+```
+
 ### Running the Lab
 
 1. Launch Jupyter Notebook:
